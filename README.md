@@ -1,3 +1,3 @@
 # zadanie-pwi
-zadanie na pwi, to jest zadanie 4
+zadanie na pwi, to jest zadanie 3
 
